@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+* {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+}
+label{
+    display: inline-block;
+    width: 150px;
+}
+.css-disable{
+    width: 60px;
+}
+
+hr{
+    background-color: black;
+    height:1px;
+    border:none;
+}
+input[type="submit"]{
+    width: 15em;
+    background-color: greenyellow;
+    border-radius:10px;
+    border: 2px solid;
+}
+
+body{
+    background-color: rgb(222,184,135);
+}
+input {
+    margin-top: 10px;
+    size: 20;
+}
